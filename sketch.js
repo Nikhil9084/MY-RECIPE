@@ -96,7 +96,7 @@ function keyPressed() {
 		Matter.Body.setStatic(starBody,false); 
 	}
 
-	//writw code to move fairy left and right
+	//aritw code to move fairy left and right
 	
 }
 
